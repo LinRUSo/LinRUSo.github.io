@@ -1,2 +1,2 @@
-# LinRUSo.github.io
-My first website
+# Илья Красовских
+Мой первый сайт
